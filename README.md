@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=HEALER;Senior+Software+Engineer;Building+Scalable+Systems;Designing+Cloud+Architecture;Creating+AI-Powered+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=HEALER;Senior+Software+Engineer;Building+Scalable+Systems;Cloud+Architecture;AI-Powered+Applications"/>
 
 <br/>
 
 <h3>
-Architecting systems. Building reliable technology.
+Senior Software Engineer
 </h3>
 
 <p>
 Software Engineer with <b>8+ years of experience</b> designing,
-building, and scaling production-grade applications.
+building, and scaling production-grade software systems.
 </p>
 
 <p>
-Focused on distributed systems, cloud-native architecture,
-AI engineering, and creating impactful software solutions.
+Specialized in scalable backend architectures, cloud-native applications,
+modern web platforms, and AI-powered solutions.
 </p>
 
 </div>
@@ -24,131 +24,64 @@ AI engineering, and creating impactful software solutions.
 <br/>
 
 
-<div align="center">
+## ⚡ Technical Skills
+
 
 <table>
 <tr>
 
 <td width="25%" align="center">
 
-<img src="./.github/assets/icons/system.svg" width="55">
+<img src="./assets/icons/system.svg" width="45">
 
 <br/>
 
-### System Design
-
-Scalable architectures  
-Reliable platforms
-
-</td>
-
-
-<td width="25%" align="center">
-
-<img src="./.github/assets/icons/cloud.svg" width="55">
-
-<br/>
-
-### Cloud Engineering
-
-Cloud-native systems  
-Infrastructure automation
-
-</td>
-
-
-<td width="25%" align="center">
-
-<img src="./.github/assets/icons/ai.svg" width="55">
-
-<br/>
-
-### AI Engineering
-
-LLM applications  
-Intelligent systems
-
-</td>
-
-
-<td width="25%" align="center">
-
-<img src="./.github/assets/icons/team.svg" width="55">
-
-<br/>
-
-### Team Collaboration
-
-Strong communication  
-Better products
-
-</td>
-
-
-</tr>
-</table>
-
-</div>
-
-
-<br/>
-
-
-## ◈ Technical Expertise
-
-
-<table>
-
-<tr>
-
-
-<td width="20%" align="center">
-
-### Backend
-
-<br/>
+### Backend Engineering
 
 Python  
 Java  
-C#  
+C# / .NET  
 Go  
 Node.js  
 
 <br/>
 
-API Design  
+APIs  
 Microservices  
 Distributed Systems
 
 </td>
 
 
-<td width="20%" align="center">
+<td width="25%" align="center">
 
-### Frontend
+<img src="./assets/icons/system.svg" width="45">
 
 <br/>
+
+### Frontend Engineering
 
 React  
 Next.js  
 TypeScript  
 JavaScript  
-CSS  
+HTML / CSS  
 
 <br/>
 
-Modern UI  
-Performance  
-Architecture
+UI Architecture  
+Performance Optimization
 
 </td>
 
 
-<td width="20%" align="center">
+<td width="25%" align="center">
 
-### Cloud
+<img src="./assets/icons/cloud.svg" width="45">
 
 <br/>
+
+### Cloud & DevOps
 
 AWS  
 Azure  
@@ -158,52 +91,35 @@ GCP
 
 Docker  
 Kubernetes  
-CI/CD
+CI/CD  
+Infrastructure Automation
 
 </td>
 
 
-<td width="20%" align="center">
+<td width="25%" align="center">
 
-### Database
-
-<br/>
-
-PostgreSQL  
-MongoDB  
-Redis  
-MySQL  
+<img src="./assets/icons/ai.svg" width="45">
 
 <br/>
 
-Optimization  
-Scalability
+### AI Engineering
 
-</td>
-
-
-<td width="20%" align="center">
-
-### AI Systems
-
-<br/>
-
-LLM  
-RAG  
+LLM Applications  
+RAG Systems  
 AI Agents  
-Vector Search  
 
 <br/>
 
 OpenAI  
 Claude  
-LangChain
+LangChain  
+Vector Databases
 
 </td>
 
 
 </tr>
-
 </table>
 
 
@@ -212,125 +128,8 @@ LangChain
 
 <div align="center">
 
+### Engineering Focus
 
-## ◇ Engineering Principles
-
-
-<table>
-
-<tr>
-
-
-<td align="center">
-
-<img src="./.github/assets/icons/quality.svg" width="45">
-
-<br/>
-
-### Simplicity
-
-Build clear solutions  
-for complex problems.
-
-</td>
-
-
-<td align="center">
-
-<img src="./.github/assets/icons/system.svg" width="45">
-
-<br/>
-
-### Scalability
-
-Design systems  
-ready for growth.
-
-</td>
-
-
-<td align="center">
-
-<img src="./.github/assets/icons/quality.svg" width="45">
-
-<br/>
-
-### Quality
-
-Create software  
-people trust.
-
-</td>
-
-
-<td align="center">
-
-<img src="./.github/assets/icons/team.svg" width="45">
-
-<br/>
-
-### Collaboration
-
-Great teams build  
-great products.
-
-</td>
-
-
-</tr>
-
-</table>
-
-
-</div>
-
-
-<br/>
-
-
-<div align="center">
-
-
-## ⚡ Currently Building
-
-
-<p>
-
-🚀 Scalable backend platforms  
-<br/>
-
-☁️ Cloud-native applications  
-<br/>
-
-🤖 AI-powered software solutions  
-<br/>
-
-🧠 Intelligent automation systems  
-
-</p>
-
-
-<br/>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Innovate+%E2%80%A2+Impact"/>
-
-
-</div>
-
-
-<br/>
-
-
-<div align="center">
-
-
-> "Great software is not only about writing code.
-> It is about creating technology people can trust."
-
-
-<br/>
-
-<b>HEALER</b>
+Scalable Systems • Cloud Architecture • AI Solutions • Clean Software Design
 
 </div>
