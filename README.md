@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/healer-avatar.gif"
+<img src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/healer-avatar.gif"
      width="220"
      alt="HEALER 3D Avatar"/>
 
