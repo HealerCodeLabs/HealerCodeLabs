@@ -1,30 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=HEALER;Senior+Software+Engineer;Building+Scalable+Systems;Cloud+Architecture;AI-Powered+Applications"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/healer-avatar.gif"
+     width="220"
+     alt="HEALER 3D Avatar"/>
 
 <br/>
 
-<h3>
-Senior Software Engineer
-</h3>
+# HEALER
 
-<p>
-Software Engineer with <b>8+ years of experience</b> designing,
-building, and scaling production-grade software systems.
-</p>
+### Senior Software Engineer
 
-<p>
-Specialized in scalable backend architectures, cloud-native applications,
-modern web platforms, and AI-powered solutions.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Systems;Designing+Cloud+Native+Applications;Creating+AI+Powered+Solutions"/>
 
 </div>
 
 
-<br/>
+---
+
+## About Me
+
+Software Engineer with **8+ years of experience** designing, building,
+and scaling production-grade applications.
+
+I specialize in backend engineering, cloud architecture, modern web
+platforms, and AI-powered software solutions.
+
+Focused on writing clean, maintainable software and collaborating with
+teams to build reliable products.
 
 
-## ⚡ Technical Skills
+---
+
+## Technical Skills
 
 
 <table>
@@ -32,11 +39,14 @@ modern web platforms, and AI-powered solutions.
 
 <td width="25%" align="center">
 
-<img src="./assets/icons/system.svg" width="45">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
+width="55"/>
 
 <br/>
 
-### Backend Engineering
+<b>Backend Engineering</b>
+
+<br/><br/>
 
 Python  
 Java  
@@ -46,42 +56,44 @@ Node.js
 
 <br/>
 
-APIs  
-Microservices  
-Distributed Systems
+APIs • Microservices • Distributed Systems
 
 </td>
 
 
 <td width="25%" align="center">
 
-<img src="./assets/icons/system.svg" width="45">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
+width="55"/>
 
 <br/>
 
-### Frontend Engineering
+<b>Frontend Engineering</b>
+
+<br/><br/>
 
 React  
 Next.js  
 TypeScript  
 JavaScript  
-HTML / CSS  
 
 <br/>
 
-UI Architecture  
-Performance Optimization
+UI Architecture • Performance
 
 </td>
 
 
 <td width="25%" align="center">
 
-<img src="./assets/icons/cloud.svg" width="45">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/cloud.svg"
+width="55"/>
 
 <br/>
 
-### Cloud & DevOps
+<b>Cloud Engineering</b>
+
+<br/><br/>
 
 AWS  
 Azure  
@@ -89,21 +101,21 @@ GCP
 
 <br/>
 
-Docker  
-Kubernetes  
-CI/CD  
-Infrastructure Automation
+Docker • Kubernetes • CI/CD
 
 </td>
 
 
 <td width="25%" align="center">
 
-<img src="./assets/icons/ai.svg" width="45">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/ai.svg"
+width="55"/>
 
 <br/>
 
-### AI Engineering
+<b>AI Engineering</b>
+
+<br/><br/>
 
 LLM Applications  
 RAG Systems  
@@ -111,25 +123,20 @@ AI Agents
 
 <br/>
 
-OpenAI  
-Claude  
-LangChain  
-Vector Databases
+OpenAI • LangChain • Vector DB
 
 </td>
-
 
 </tr>
 </table>
 
 
-<br/>
-
+---
 
 <div align="center">
 
-### Engineering Focus
-
-Scalable Systems • Cloud Architecture • AI Solutions • Clean Software Design
+<b>
+Build • Solve • Innovate • Impact
+</b>
 
 </div>
