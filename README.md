@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1D4ED8&height=180&section=header&text=HEALER&fontSize=75&fontColor=FFFFFF&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;System+Architect;Cloud+Native+Engineer;AI+Application+Builder;Technology+Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=HEALER;Senior+Software+Engineer;Building+Scalable+Systems;Designing+Cloud+Architecture;Creating+AI-Powered+Applications"/>
 
 <br/>
 
 <h3>
-⚡ Architecting Systems. Building the Future.
+Architecting systems. Building reliable technology.
 </h3>
 
 <p>
 Software Engineer with <b>8+ years of experience</b> designing,
-building, and scaling production-grade applications and platforms.
+building, and scaling production-grade applications.
 </p>
 
 <p>
-Focused on distributed systems, cloud architecture,
-AI-powered applications, and engineering excellence.
+Focused on distributed systems, cloud-native architecture,
+AI engineering, and creating impactful software solutions.
 </p>
 
 </div>
@@ -28,142 +24,183 @@ AI-powered applications, and engineering excellence.
 <br/>
 
 
-## ✦ Core Strengths
+<div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td width="25%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="./.github/assets/icons/system.svg" width="55">
 
-<h4>System Design</h4>
+<br/>
 
-Building scalable and resilient architectures.
+### System Design
 
-</td>
-
-
-<td align="center" width="20%">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="45"/>
-
-<h4>Cloud Native</h4>
-
-Designing reliable cloud solutions.
+Scalable architectures  
+Reliable platforms
 
 </td>
 
 
-<td align="center" width="20%">
+<td width="25%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="45"/>
+<img src="./.github/assets/icons/cloud.svg" width="55">
 
-<h4>Clean Code</h4>
+<br/>
 
-Writing maintainable and efficient software.
+### Cloud Engineering
 
-</td>
-
-
-<td align="center" width="20%">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-
-<h4>AI Integration</h4>
-
-Building intelligent applications.
+Cloud-native systems  
+Infrastructure automation
 
 </td>
 
 
-<td align="center" width="20%">
+<td width="25%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="./.github/assets/icons/ai.svg" width="55">
 
-<h4>Team Player</h4>
+<br/>
 
-Collaborating to build better products.
+### AI Engineering
+
+LLM applications  
+Intelligent systems
 
 </td>
+
+
+<td width="25%" align="center">
+
+<img src="./.github/assets/icons/team.svg" width="55">
+
+<br/>
+
+### Team Collaboration
+
+Strong communication  
+Better products
+
+</td>
+
 
 </tr>
 </table>
+
+</div>
 
 
 <br/>
 
 
-# 🛠 Technical Expertise
+## ◈ Technical Expertise
 
 
 <table>
 
 <tr>
 
+
 <td width="20%" align="center">
 
-<h3>Backend</h3>
+### Backend
 
-🐍 Python  
-☕ Java  
-🟦 C#  
-🟢 Go  
-⚡ Node.js  
+<br/>
+
+Python  
+Java  
+C#  
+Go  
+Node.js  
+
+<br/>
+
+API Design  
+Microservices  
+Distributed Systems
 
 </td>
 
 
 <td width="20%" align="center">
 
-<h3>Frontend</h3>
+### Frontend
 
-⚛️ React  
-▲ Next.js  
-TS TypeScript  
-JS JavaScript  
-CSS3  
+<br/>
 
-</td>
+React  
+Next.js  
+TypeScript  
+JavaScript  
+CSS  
 
+<br/>
 
-<td width="20%" align="center">
-
-<h3>Cloud</h3>
-
-☁️ AWS  
-🔷 Azure  
-🌎 GCP  
-🐳 Docker  
-☸ Kubernetes  
+Modern UI  
+Performance  
+Architecture
 
 </td>
 
 
 <td width="20%" align="center">
 
-<h3>Database</h3>
+### Cloud
+
+<br/>
+
+AWS  
+Azure  
+GCP  
+
+<br/>
+
+Docker  
+Kubernetes  
+CI/CD
+
+</td>
+
+
+<td width="20%" align="center">
+
+### Database
+
+<br/>
 
 PostgreSQL  
 MongoDB  
 Redis  
 MySQL  
-DynamoDB  
+
+<br/>
+
+Optimization  
+Scalability
 
 </td>
 
 
 <td width="20%" align="center">
 
-<h3>AI & Data</h3>
+### AI Systems
+
+<br/>
 
 LLM  
 RAG  
 AI Agents  
-Vector DB  
-LangChain  
+Vector Search  
+
+<br/>
+
+OpenAI  
+Claude  
+LangChain
 
 </td>
+
 
 </tr>
 
@@ -175,57 +212,77 @@ LangChain
 
 <div align="center">
 
-## ⚡ Engineering Philosophy
 
-</div>
+## ◇ Engineering Principles
 
 
 <table>
 
 <tr>
 
+
 <td align="center">
 
-### 01
+<img src="./.github/assets/icons/quality.svg" width="45">
+
+<br/>
+
 ### Simplicity
 
-Create solutions that are easy to understand.
+Build clear solutions  
+for complex problems.
 
 </td>
 
 
 <td align="center">
 
-### 02
+<img src="./.github/assets/icons/system.svg" width="45">
+
+<br/>
+
 ### Scalability
 
-Design systems ready for growth.
+Design systems  
+ready for growth.
 
 </td>
 
 
 <td align="center">
 
-### 03
+<img src="./.github/assets/icons/quality.svg" width="45">
+
+<br/>
+
 ### Quality
 
-Build software people trust.
+Create software  
+people trust.
 
 </td>
 
 
 <td align="center">
 
-### 04
+<img src="./.github/assets/icons/team.svg" width="45">
+
+<br/>
+
 ### Collaboration
 
-Great teams create great products.
+Great teams build  
+great products.
 
 </td>
+
 
 </tr>
 
 </table>
+
+
+</div>
 
 
 <br/>
@@ -234,7 +291,46 @@ Great teams create great products.
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Innovate+%E2%80%A2+Impact"/>
+## ⚡ Currently Building
 
+
+<p>
+
+🚀 Scalable backend platforms  
+<br/>
+
+☁️ Cloud-native applications  
+<br/>
+
+🤖 AI-powered software solutions  
+<br/>
+
+🧠 Intelligent automation systems  
+
+</p>
+
+
+<br/>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Innovate+%E2%80%A2+Impact"/>
+
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+
+> "Great software is not only about writing code.
+> It is about creating technology people can trust."
+
+
+<br/>
+
+<b>HEALER</b>
 
 </div>
