@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/healer-avatar.gif"
+src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/healer-avatar.gif"
 width="260"
 alt="HEALER 3D Avatar"
 />
@@ -45,7 +45,7 @@ Focused on creating reliable, scalable, and maintainable technology.
 <td width="25%" align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
+src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/icons/system.svg"
 width="50"
 />
 
@@ -71,7 +71,7 @@ Distributed Systems
 <td width="25%" align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
+src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/icons/system.svg"
 width="50"
 />
 
@@ -95,7 +95,7 @@ Performance
 <td width="25%" align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/cloud.svg"
+src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/icons/cloud.svg"
 width="50"
 />
 
@@ -119,7 +119,7 @@ CI/CD
 <td width="25%" align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/ai.svg"
+src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/icons/ai.svg"
 width="50"
 />
 
