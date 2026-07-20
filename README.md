@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/healer-avatar.gif"
-     width="220"
-     alt="HEALER 3D Avatar"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/healer-avatar.gif"
+width="230"
+alt="HEALER 3D Avatar"/>
 
 <br/>
 
@@ -10,32 +10,34 @@
 
 ### Senior Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Systems;Designing+Cloud+Native+Applications;Creating+AI+Powered+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Systems;Designing+Cloud+Native+Applications;Creating+AI+Powered+Solutions"/>
 
 </div>
 
 
----
-
-## About Me
-
-Software Engineer with **8+ years of experience** designing, building,
-and scaling production-grade applications.
-
-I specialize in backend engineering, cloud architecture, modern web
-platforms, and AI-powered software solutions.
-
-Focused on writing clean, maintainable software and collaborating with
-teams to build reliable products.
+<br/>
 
 
----
+## 👨‍💻 About Me
 
-## Technical Skills
+Software Engineer with **8+ years of experience** designing,
+building, and scaling production-grade applications.
+
+Specialized in backend systems, cloud architecture,
+modern web platforms, and AI-powered software solutions.
+
+Focused on creating reliable, scalable, and maintainable technology.
+
+
+<br/>
+
+
+## 🛠 Technical Skills
 
 
 <table>
 <tr>
+
 
 <td width="25%" align="center">
 
@@ -44,9 +46,7 @@ width="55"/>
 
 <br/>
 
-<b>Backend Engineering</b>
-
-<br/><br/>
+### Backend
 
 Python  
 Java  
@@ -56,7 +56,9 @@ Node.js
 
 <br/>
 
-APIs • Microservices • Distributed Systems
+APIs  
+Microservices  
+Distributed Systems
 
 </td>
 
@@ -68,9 +70,7 @@ width="55"/>
 
 <br/>
 
-<b>Frontend Engineering</b>
-
-<br/><br/>
+### Frontend
 
 React  
 Next.js  
@@ -79,7 +79,8 @@ JavaScript
 
 <br/>
 
-UI Architecture • Performance
+UI Architecture  
+Performance Optimization
 
 </td>
 
@@ -91,9 +92,7 @@ width="55"/>
 
 <br/>
 
-<b>Cloud Engineering</b>
-
-<br/><br/>
+### Cloud & DevOps
 
 AWS  
 Azure  
@@ -101,21 +100,21 @@ GCP
 
 <br/>
 
-Docker • Kubernetes • CI/CD
+Docker  
+Kubernetes  
+CI/CD
 
 </td>
 
 
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/ai.svg"
+<img src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/icons/ai.svg"
 width="55"/>
 
 <br/>
 
-<b>AI Engineering</b>
-
-<br/><br/>
+### AI Engineering
 
 LLM Applications  
 RAG Systems  
@@ -123,20 +122,22 @@ AI Agents
 
 <br/>
 
-OpenAI • LangChain • Vector DB
+OpenAI  
+LangChain  
+Vector Databases
 
 </td>
+
 
 </tr>
 </table>
 
 
----
+<br/>
+
 
 <div align="center">
 
-<b>
-Build • Solve • Innovate • Impact
-</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Innovate+%E2%80%A2+Impact"/>
 
 </div>
