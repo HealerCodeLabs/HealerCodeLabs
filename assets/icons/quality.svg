@@ -1,0 +1,25 @@
+<svg width="80" height="80"
+viewBox="0 0 80 80"
+fill="none"
+xmlns="http://www.w3.org/2000/svg">
+
+
+<path
+d="
+M40 10L62 18V38
+C62 53 52 63 40 70
+C28 63 18 53 18 38V18L40 10Z
+"
+stroke="#38BDF8"
+stroke-width="3"/>
+
+
+<path
+d="
+M28 40L36 48L53 29
+"
+stroke="#60A5FA"
+stroke-width="4"/>
+
+
+</svg>
