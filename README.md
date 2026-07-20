@@ -1,36 +1,40 @@
 <div align="center">
 
-# 👨‍💻 HEALER
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Building+Scalable+Software+Systems;Designing+Modern+Cloud+Architectures;Creating+Intelligent+Technology+Solutions" />
 
-### Senior Software Engineer | Building Scalable Systems & Intelligent Solutions
+<br/>
+
+<h3>
+🚀 Software Engineer | System Builder | Problem Solver
+</h3>
+
+<p>
+Designing reliable, scalable, and intelligent software solutions<br/>
+with a focus on clean architecture, performance, and teamwork.
+</p>
+
+<br/>
+
+</div>
+
+
+## 👨‍💻 About Me
 
 ```typescript
-const engineer = {
-  name: "Healer",
-  role: "Senior Software Engineer",
-  mindset: [
-    "Clean Architecture",
-    "Scalable Systems",
-    "Continuous Improvement",
-    "Team Collaboration"
+const healer = {
+  title: "Senior Software Engineer",
+
+  experience: "8+ years building production software",
+
+  philosophy: [
+    "Simple solutions to complex problems",
+    "Clean architecture over quick fixes",
+    "Collaboration over individual achievement",
+    "Continuous improvement through learning"
   ],
 
-  expertise: {
-    backend: ["Node.js", "Python", "Java", "Go", ".NET"],
-    frontend: ["React", "Next.js", "TypeScript"],
-    cloud: ["AWS", "Azure", "GCP"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    ai: ["LLM Applications", "RAG Systems", "AI Automation"]
-  },
-
-  engineeringPrinciples: [
-    "Write maintainable code",
-    "Design for scalability",
-    "Solve problems together",
-    "Deliver real-world impact"
-  ],
-
-  currentlyBuilding: "Reliable and intelligent software systems 🚀"
+  mission:
+    "Building technology that is scalable, maintainable, and impactful."
 };
 
-console.log(`${engineer.role}: Ready to build the future.`);
+export default healer;
