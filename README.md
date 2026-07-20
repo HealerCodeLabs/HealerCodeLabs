@@ -2,7 +2,7 @@
   <h2>💦 AI & Full Stack Engineer 💦</h2>
 </div>
 
-I am an **AI and Full-Stack Engineer** focused on building scalable, production-grade systems powered by modern AI. My expertise spans **LLMs, agent architectures, RAG systems, and applied machine learning**, combined with strong capabilities across **frontend, backend, and cloud infrastructure**.
+I am an **Senior Software Engineer** focused on building scalable, production-grade systems powered by modern AI. My expertise spans **LLMs, agent architectures, RAG systems, and applied machine learning**, combined with strong capabilities across **frontend, backend, and cloud infrastructure**.
 
 I design and deliver **end to end solutions** from intelligent AI agents and data pipelines to high performance web/mobile applications and distributed systems. My work includes **LLM powered applications, autonomous workflows, real time AI systems, and developer platforms**, all built with a strong emphasis on **reliability, observability, and scalability**.
 
