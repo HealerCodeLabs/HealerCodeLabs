@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/healer-avatar.gif"
-width="230"
-alt="HEALER 3D Avatar"/>
+<img 
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/healer-avatar.gif"
+width="260"
+alt="HEALER 3D Avatar"
+/>
 
 <br/>
 
@@ -10,7 +12,9 @@ alt="HEALER 3D Avatar"/>
 
 ### Senior Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Systems;Designing+Cloud+Native+Applications;Creating+AI+Powered+Solutions"/>
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Systems;Designing+Cloud+Native+Applications;Creating+AI+Powered+Solutions"
+/>
 
 </div>
 
@@ -18,7 +22,7 @@ alt="HEALER 3D Avatar"/>
 <br/>
 
 
-## 👨‍💻 About Me
+## ABOUT ME
 
 Software Engineer with **8+ years of experience** designing,
 building, and scaling production-grade applications.
@@ -32,17 +36,18 @@ Focused on creating reliable, scalable, and maintainable technology.
 <br/>
 
 
-## 🛠 Technical Skills
+## TECHNICAL EXPERTISE
 
 
 <table>
 <tr>
 
-
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
-width="55"/>
+<img
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
+width="50"
+/>
 
 <br/>
 
@@ -65,8 +70,10 @@ Distributed Systems
 
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
-width="55"/>
+<img
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/system.svg"
+width="50"
+/>
 
 <br/>
 
@@ -80,19 +87,21 @@ JavaScript
 <br/>
 
 UI Architecture  
-Performance Optimization
+Performance
 
 </td>
 
 
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/cloud.svg"
-width="55"/>
+<img
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/cloud.svg"
+width="50"
+/>
 
 <br/>
 
-### Cloud & DevOps
+### Cloud
 
 AWS  
 Azure  
@@ -109,12 +118,14 @@ CI/CD
 
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/HealerCodeLabs/HealerCodeLabs/main/assets/icons/ai.svg"
-width="55"/>
+<img
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/icons/ai.svg"
+width="50"
+/>
 
 <br/>
 
-### AI Engineering
+### AI
 
 LLM Applications  
 RAG Systems  
@@ -124,7 +135,7 @@ AI Agents
 
 OpenAI  
 LangChain  
-Vector Databases
+Vector DB
 
 </td>
 
@@ -138,6 +149,8 @@ Vector Databases
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Innovate+%E2%80%A2+Impact"/>
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Innovate+%E2%80%A2+Impact"
+/>
 
 </div>
