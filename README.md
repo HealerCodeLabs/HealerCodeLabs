@@ -1,47 +1,191 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=700&color=00C8FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Architecting+Scalable+Systems;Building+Modern+Cloud+Applications;Transforming+Ideas+Into+Reliable+Software" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=HEALER&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C8FF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Building+Scalable+Digital+Systems;Designing+Modern+Cloud+Architecture;Creating+Intelligent+Technology+Solutions"/>
 
 <br/>
 
-<h2>
-⚡ Software Engineer | System Architect | Technology Builder
-</h2>
+<p align="center">
+  <strong>
+  Software Engineer with 8+ years of experience building 
+  reliable, scalable, and high-performance software systems.
+  </strong>
+</p>
 
-<p>
-Building scalable, high-performance software systems with a focus on
-<br/>
-clean architecture, reliability, automation, and exceptional user experiences.
+<p align="center">
+  Passionate about architecture, cloud technologies, artificial intelligence,
+  and creating impactful products through exceptional teamwork.
 </p>
 
 </div>
 
+## ✦ Engineering Profile
+
+I specialize in designing and developing modern software platforms that combine:
+
+◆ Scalable backend architectures
+◆ High-performance applications
+◆ Cloud-native infrastructure
+◆ Intelligent AI-powered solutions
+◆ Clean and maintainable engineering practices
+
+My approach is simple:
+
+**Build reliable systems.
+Solve meaningful problems.
+Create technology that lasts.**
 
 ---
 
-## 👨‍💻 Professional Profile
+<div align="center">
 
-```typescript
-const engineer = {
-    name: "Healer",
+## ⚡ Technology Expertise
 
-    role: "Senior Software Engineer",
+</div>
 
-    experience: "8+ years developing production-grade software",
+<table>
+<tr>
 
-    approach: {
-        architecture: "Design scalable and maintainable systems",
-        development: "Write clean, efficient, and reliable code",
-        teamwork: "Collaborate, communicate, and grow together",
-        mindset: "Always improve and solve meaningful problems"
-    },
+<td width="50%">
 
-    objective:
-        "Creating technology solutions that deliver measurable impact."
-};
+### Backend Engineering
 
-console.log(engineer);
+Building robust foundations for production systems.
+
+* Distributed Systems
+* Microservices Architecture
+* API Design
+* Database Engineering
+* Performance Optimization
+
+**Stack**
+
+Java • Python • C# • Go
+Node.js • Spring Boot • .NET
+PostgreSQL • MongoDB • Redis
+
+</td>
+
+<td width="50%">
+
+### Frontend Engineering
+
+Creating modern and intuitive digital experiences.
+
+* Application Architecture
+* Component Design
+* Performance Optimization
+* User Experience
+
+**Stack**
+
+React • Next.js
+TypeScript • JavaScript
+HTML5 • CSS3
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Cloud & Infrastructure
+
+Engineering reliable systems at scale.
+
+* Cloud Architecture
+* Deployment Automation
+* Infrastructure Design
+* System Reliability
+
+**Stack**
+
+AWS • Azure • Google Cloud
+Docker • Kubernetes
+CI/CD • Terraform
+
+</td>
+
+<td width="50%">
+
+### AI & Emerging Technology
+
+Building intelligent software solutions.
+
+* LLM Applications
+* AI Agents
+* Retrieval Systems
+* Automation Platforms
+
+**Stack**
+
+OpenAI • Claude • Gemini
+RAG • Vector Search
+Machine Learning Systems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏛️ Engineering Philosophy
+
+</div>
+
+<table>
+<tr>
+<td align="center">
+
+### Architecture
+
+Design systems that remain reliable as they grow.
+
+</td>
+
+<td align="center">
+
+### Quality
+
+Write software that teams can trust.
+
+</td>
+
+<td align="center">
+
+### Collaboration
+
+Create better solutions together.
+
+</td>
+
+<td align="center">
+
+### Innovation
+
+Continuously improve through technology.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Build+%E2%80%A2+Solve+%E2%80%A2+Innovate+%E2%80%A2+Impact"/>
+
+<br/>
+
+"Great software is created by engineers who combine technical excellence with teamwork."
+
+</div>
