@@ -1,40 +1,47 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Building+Scalable+Software+Systems;Designing+Modern+Cloud+Architectures;Creating+Intelligent+Technology+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=700&color=00C8FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Architecting+Scalable+Systems;Building+Modern+Cloud+Applications;Transforming+Ideas+Into+Reliable+Software" />
 
 <br/>
 
-<h3>
-🚀 Software Engineer | System Builder | Problem Solver
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C8FF"/>
+
+<br/>
+
+<h2>
+⚡ Software Engineer | System Architect | Technology Builder
+</h2>
 
 <p>
-Designing reliable, scalable, and intelligent software solutions<br/>
-with a focus on clean architecture, performance, and teamwork.
-</p>
-
+Building scalable, high-performance software systems with a focus on
 <br/>
+clean architecture, reliability, automation, and exceptional user experiences.
+</p>
 
 </div>
 
 
-## 👨‍💻 About Me
+---
+
+## 👨‍💻 Professional Profile
 
 ```typescript
-const healer = {
-  title: "Senior Software Engineer",
+const engineer = {
+    name: "Healer",
 
-  experience: "8+ years building production software",
+    role: "Senior Software Engineer",
 
-  philosophy: [
-    "Simple solutions to complex problems",
-    "Clean architecture over quick fixes",
-    "Collaboration over individual achievement",
-    "Continuous improvement through learning"
-  ],
+    experience: "8+ years developing production-grade software",
 
-  mission:
-    "Building technology that is scalable, maintainable, and impactful."
+    approach: {
+        architecture: "Design scalable and maintainable systems",
+        development: "Write clean, efficient, and reliable code",
+        teamwork: "Collaborate, communicate, and grow together",
+        mindset: "Always improve and solve meaningful problems"
+    },
+
+    objective:
+        "Creating technology solutions that deliver measurable impact."
 };
 
-export default healer;
+console.log(engineer);
