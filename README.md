@@ -17,7 +17,7 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 <tr>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 <br>Python
 </td>
 
@@ -27,13 +27,8 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
 <br>TensorFlow
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="Hugging Face" />
-<br>Hugging Face
 </td>
 
 <td align="center" width="96">
@@ -42,8 +37,13 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
 </td>
 
 </tr>
@@ -52,13 +52,8 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 <tr>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-<br>Kubernetes
+<img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="Hugging Face" />
+<br>Hugging Face
 </td>
 
 <td align="center" width="96">
@@ -72,13 +67,18 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/redis-icon.svg" width="48" height="48" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
 <br>Redis
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
 </td>
 
 </tr>
@@ -87,12 +87,12 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 <tr>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="48" height="48" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
 <br>TypeScript
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" height="48" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br>Node.js
 </td>
 
@@ -102,18 +102,18 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br>React
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
 <br>Next.js
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
 </td>
 
 </tr>
