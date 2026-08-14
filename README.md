@@ -36,7 +36,7 @@ With a strong software engineering foundation, I transform AI models and prototy
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="48" height="48"/>
 <br>Hugging Face
 </td>
 
@@ -56,7 +56,7 @@ With a strong software engineering foundation, I transform AI models and prototy
 </td>
 
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/langchain" width="48" height="48"/>
 <br>LangChain
 </td>
 
