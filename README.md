@@ -1,106 +1,176 @@
 <div align="center">
-  <h2>💦 AI & Full Stack Engineer 💦</h2>
+  <h2>🤖 AI Engineer | Machine Learning Engineer | Generative AI</h2>
 </div>
 
-I am an **Senior Software Engineer** focused on building scalable, production-grade systems powered by modern AI. My expertise spans **LLMs, agent architectures, RAG systems, and applied machine learning**, combined with strong capabilities across **frontend, backend, and cloud infrastructure**.
+I am an **AI Engineer and Machine Learning Engineer with 7+ years of software engineering experience**, including 5+ years focused on building **ML and AI applications**. My expertise includes **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, NLP, semantic search, model integration, evaluation, and intelligent automation**.
 
-I design and deliver **end to end solutions** from intelligent AI agents and data pipelines to high performance web/mobile applications and distributed systems. My work includes **LLM powered applications, autonomous workflows, real time AI systems, and developer platforms**, all built with a strong emphasis on **reliability, observability, and scalability**.
+I design and develop **production-ready AI systems**, including LLM-powered applications, retrieval pipelines, AI services, and intelligent workflows. My work focuses on improving AI reliability through **retrieval optimization, evaluation workflows, prompt engineering, and scalable deployment**.
 
-On the infrastructure side, I specialize in **cloud native architectures (AWS/GCP)**, **containerization (Docker)**, **orchestration**, **CI/CD pipelines**, and **system performance optimization**, ensuring that AI systems are not just functional, but **production-ready and cost-efficient**.
-
+I have a strong **Python and backend engineering foundation** with experience building AI APIs, vector search systems, data pipelines, and production workflows that transform AI capabilities into practical applications.
 <br/>
-
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
 <table align="center">
+
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AI" />
-    <br>AI
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+    <br>Python
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+    <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/>
+    <br>PyTorch
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/>
     <br>TensorFlow
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-    <br>Solidity
+    🦙
+    <br>LLMs
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-    <br>Rust
+    🔎
+    <br>RAG
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-    <br>Go
-  </td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React</td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next.js" />
-    <br>Next.js
+    🤖
+    <br>AI Agents
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-    <br>Vue
+    🧠
+    <br>NLP
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-    <br>Node.js
+    🔍
+    <br>Semantic Search
   </td>
 </tr>
+
 <tr>
   <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
-    <br>Django
+    🤗
+    <br>Hugging Face
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+    🦜
+    <br>LangChain
+  </td>
+  <td align="center" width="96">
+    ⚡
+    <br>OpenAI API
+  </td>
+  <td align="center" width="96">
+    ✍️
+    <br>Prompt Engineering
+  </td>
+  <td align="center" width="96">
+    📚
+    <br>Embeddings
+  </td>
+  <td align="center" width="96">
+    🗄️
+    <br>Vector DB
+  </td>
+  <td align="center" width="96">
+    📊
+    <br>Evaluation
+  </td>
+  <td align="center" width="96">
+    ⚙️
+    <br>Automation
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/>
     <br>FastAPI
   </td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br>Python</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /><br>JavaScript</td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-    <br>Flutter
-  </td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React Native</td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-    <br>Prisma
-  </td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" /><br>Docker</td>
-</tr>
-<tr>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL</td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
     <br>PostgreSQL
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
     <br>MongoDB
   </td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" /><br>GraphQL</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API</td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ipfs" width="48" height="48" alt="IPFS" />
-    <br>IPFS
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+    <br>Docker
   </td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" /><br>Kubernetes</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br>AWS</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" /><br>Nginx</td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
+    <br>AWS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+    <br>Linux
+  </td>
+  <td align="center" width="96">
+    🔌
+    <br>REST API
+  </td>
+  <td align="center" width="96">
+    🛠️
+    <br>CI/CD
+  </td>
 </tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48"/>
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=go" width="48" height="48"/>
+    <br>Go
+  </td>
+</tr>
+
 </table>
 
-### Last 30 Days Work
-![Mate's GitHub Last 30 Days](https://github-readme-activity-graph.vercel.app/graph?username=StackCodeLabs&theme=react-dark&hide_border=true&area=true&range=30)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ec4899,100:f59e0b&section=footer" width="100%" alt="Animated pink-to-amber wave divider" />
-</div>
-</div>
 <br/>
 
+## 🚀 Featured AI Projects
 
-</p>
+### 🤖 Enterprise RAG Knowledge Assistant
+Production RAG system using document ingestion, embeddings, vector search, and LLM generation for reliable enterprise question answering.
+
+**Tech:** Python · FastAPI · LangChain · OpenAI API · Embeddings · Vector Search · PostgreSQL · Docker
+
+---
+
+### 🧠 AI Agent Platform
+AI agent system combining LLMs, retrieval systems, external APIs, and tools for multi-step task execution.
+
+**Tech:** Python · LangChain · OpenAI API · FastAPI · REST APIs · PostgreSQL
+
+---
+
+### 📄 Intelligent Document Processing System
+AI pipeline for extracting, classifying, validating, and structuring business documents using NLP and machine learning.
+
+**Tech:** Python · NLP · Machine Learning · FastAPI · REST APIs
+
+---
+
+### 🔎 Semantic Search Platform
+Embedding-based retrieval system for finding relevant information through semantic similarity instead of keyword matching.
+
+**Tech:** Python · Embeddings · Vector Databases · Semantic Search · NLP · FastAPI
+
+
+### Last 30 Days Work
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HealerCodeLabs&theme=react-dark&hide_border=true&area=true&range=30)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ec4899,100:f59e0b&section=footer" width="100%" />
+</div>
+
+</div>
