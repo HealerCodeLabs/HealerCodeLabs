@@ -31,12 +31,12 @@ With a strong software engineering foundation, I transform AI models and prototy
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/>
 <br>TensorFlow
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="48" height="48"/>
 <br>Hugging Face
 </td>
 
@@ -46,7 +46,7 @@ With a strong software engineering foundation, I transform AI models and prototy
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
 <br>Jupyter
 </td>
 
@@ -56,7 +56,7 @@ With a strong software engineering foundation, I transform AI models and prototy
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=langchain" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48" height="48"/>
 <br>LangChain
 </td>
 
@@ -66,7 +66,7 @@ With a strong software engineering foundation, I transform AI models and prototy
 <tr>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
 <br>PostgreSQL
 </td>
 
@@ -111,7 +111,7 @@ With a strong software engineering foundation, I transform AI models and prototy
 <tr>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
 <br>Node.js
 </td>
 
