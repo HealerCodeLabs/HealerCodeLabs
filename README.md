@@ -158,7 +158,9 @@ With a strong software engineering foundation, I transform AI models and prototy
 
 <br/>
 
-
-## 🧠 AI Expertise
+<div align="center">
+<h3>🧠 AI Expertise</h3>
 
 LLMs • Generative AI • RAG • AI Agents • Semantic Search • Vector Databases
+  
+</div>
