@@ -17,12 +17,12 @@
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Hugging Face" />
+    <img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="Hugging Face" />
     <br>Hugging Face
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="OpenAI API" />
+    <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="OpenAI API" />
     <br>OpenAI API
   </td>
 
@@ -35,27 +35,27 @@
 
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Vector Database" />
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Vector DB" />
     <br>Vector DB
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="RAG" />
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="RAG" />
     <br>RAG
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="LLMs" />
+    <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="LLMs" />
     <br>LLMs
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="AI Agents" />
+    <img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" alt="AI Agents" />
     <br>AI Agents
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="NLP" />
+    <img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="NLP" />
     <br>NLP
   </td>
 
