@@ -2,7 +2,7 @@
   <h2>🤖 AI Engineer | Machine Learning Engineer</h2>
 </div>
 
-I am an **AI Engineer and Machine Learning Engineer with 7+ years of software engineering experience**, including 5+ years focused on building **AI and ML applications**. My expertise includes **Generative AI, Large Language Models, RAG systems, AI agents, NLP, semantic search, model integration, evaluation, and intelligent automation**.
+I am an **AI Engineer and Machine Learning Engineer with 7+ years of software engineering experience**, including 5+ years focused on building **AI and ML applications**. My expertise includes **Generative AI, Large Language Models (LLMs), RAG systems, AI agents, NLP, semantic search, model integration, evaluation, and intelligent automation**.
 
 I build **production-ready AI systems**, including AI-powered applications, machine learning services, retrieval pipelines, backend APIs, and scalable cloud infrastructure. My focus is transforming AI capabilities into reliable products through **strong software engineering practices, evaluation, optimization, and deployment workflows**.
 
@@ -10,13 +10,35 @@ My technical background combines **machine learning, backend engineering, databa
 
 <br/>
 
-<table align="center">
+<div align="center">
+
+<table>
 
 <tr>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/openai" width="48" height="48" alt="OpenAI"/>
-<br>OpenAI
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+<br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+<br>PyTorch
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+<br>TensorFlow
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
+<br>Jupyter
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/opencv" width="48" height="48" alt="OpenCV"/>
+<br>OpenCV
 </td>
 
 <td align="center" width="96">
@@ -34,114 +56,49 @@ My technical background combines **machine learning, backend engineering, databa
 <br>MLflow
 </td>
 
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="Python"/>
-<br>Python
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/pytorch" width="48" height="48" alt="PyTorch"/>
-<br>PyTorch
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/tensorflow" width="48" height="48" alt="TensorFlow"/>
-<br>TensorFlow
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" alt="Jupyter"/>
-<br>Jupyter
-</td>
-
 </tr>
 
 
 <tr>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/opencv" width="48" height="48" alt="OpenCV"/>
-<br>OpenCV
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/fastapi" width="48" height="48" alt="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
 <br>FastAPI
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/django" width="48" height="48" alt="Django"/>
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/>
 <br>Django
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/flask" width="48" height="48" alt="Flask"/>
-<br>Flask
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/node.js" width="48" height="48" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
 <br>Node.js
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/typescript" width="48" height="48" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/>
 <br>TypeScript
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/javascript" width="48" height="48" alt="JavaScript"/>
-<br>JavaScript
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/go" width="48" height="48" alt="Go"/>
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"/>
 <br>Go
 </td>
 
-</tr>
-
-
-<tr>
-
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/postgresql" width="48" height="48" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
 <br>PostgreSQL
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/mongodb" width="48" height="48" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
 <br>MongoDB
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/redis" width="48" height="48" alt="Redis"/>
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
 <br>Redis
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/mysql" width="48" height="48" alt="MySQL"/>
-<br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/elasticsearch" width="48" height="48" alt="Elasticsearch"/>
-<br>Elastic
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/supabase" width="48" height="48" alt="Supabase"/>
-<br>Supabase
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/prisma" width="48" height="48" alt="Prisma"/>
-<br>Prisma
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/sqlite" width="48" height="48" alt="SQLite"/>
-<br>SQLite
 </td>
 
 </tr>
@@ -150,48 +107,50 @@ My technical background combines **machine learning, backend engineering, databa
 <tr>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/amazonaws" width="48" height="48" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
 <br>AWS
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/googlecloud" width="48" height="48" alt="GCP"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud"/>
 <br>GCP
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
 <br>Docker
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/kubernetes" width="48" height="48" alt="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
 <br>Kubernetes
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/terraform" width="48" height="48" alt="Terraform"/>
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"/>
 <br>Terraform
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/githubactions" width="48" height="48" alt="GitHub Actions"/>
-<br>CI/CD
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
+<br>GitHub Actions
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/linux" width="48" height="48" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
 <br>Linux
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/git" width="48" height="48" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
 <br>Git
 </td>
 
 </tr>
 
 </table>
+
+</div>
 
 <br/>
 
