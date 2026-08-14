@@ -2,11 +2,11 @@
   <h2>🤖 AI Engineer | Machine Learning Engineer</h2>
 </div>
 
-I am an **AI Engineer and Machine Learning Engineer with 7+ years of software engineering experience**, including 5+ years focused on building **AI and ML applications**. My expertise includes **Generative AI, Large Language Models (LLMs), RAG systems, AI agents, NLP, semantic search, model integration, evaluation, and intelligent automation**.
+I am an **AI Engineer and Machine Learning Engineer with 7+ years of software engineering experience**, including 5+ years focused on building **AI and ML applications**. My expertise includes **Generative AI, Large Language Models, RAG systems, AI agents, NLP, semantic search, model integration, evaluation, and intelligent automation**.
 
-I design and build **production-ready AI systems**, including LLM-powered applications, retrieval pipelines, AI services, and scalable backend workflows. I focus on turning AI capabilities into reliable products through **strong engineering practices, evaluation, optimization, and cloud-native deployment**.
+I build **production-ready AI systems**, including AI-powered applications, machine learning services, retrieval pipelines, backend APIs, and scalable cloud infrastructure. My focus is transforming AI capabilities into reliable products through **strong software engineering practices, evaluation, optimization, and deployment workflows**.
 
-My technical background combines **machine learning, backend engineering, APIs, databases, cloud infrastructure, and MLOps**, enabling me to deliver AI solutions from experimentation to production.
+My technical background combines **machine learning, backend engineering, databases, cloud platforms, and MLOps**, enabling me to deliver AI solutions from experimentation to production.
 
 <br/>
 
@@ -17,16 +17,6 @@ My technical background combines **machine learning, backend engineering, APIs, 
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/openai" width="48" height="48" alt="OpenAI"/>
 <br>OpenAI
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/anthropic" width="48" height="48" alt="Anthropic"/>
-<br>Claude
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/googlegemini" width="48" height="48" alt="Gemini"/>
-<br>Gemini
 </td>
 
 <td align="center" width="96">
@@ -43,11 +33,6 @@ My technical background combines **machine learning, backend engineering, APIs, 
 <img src="https://cdn.simpleicons.org/mlflow" width="48" height="48" alt="MLflow"/>
 <br>MLflow
 </td>
-
-</tr>
-
-
-<tr>
 
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="Python"/>
@@ -69,20 +54,15 @@ My technical background combines **machine learning, backend engineering, APIs, 
 <br>Jupyter
 </td>
 
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/opencv" width="48" height="48" alt="OpenCV"/>
-<br>OpenCV
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="Scikit-learn"/>
-<br>Scikit-learn
-</td>
-
 </tr>
 
 
 <tr>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/opencv" width="48" height="48" alt="OpenCV"/>
+<br>OpenCV
+</td>
 
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/fastapi" width="48" height="48" alt="FastAPI"/>
@@ -92,6 +72,11 @@ My technical background combines **machine learning, backend engineering, APIs, 
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/django" width="48" height="48" alt="Django"/>
 <br>Django
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/flask" width="48" height="48" alt="Flask"/>
+<br>Flask
 </td>
 
 <td align="center" width="96">
@@ -105,13 +90,13 @@ My technical background combines **machine learning, backend engineering, APIs, 
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/go" width="48" height="48" alt="Go"/>
-<br>Go
+<img src="https://cdn.simpleicons.org/javascript" width="48" height="48" alt="JavaScript"/>
+<br>JavaScript
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/graphql" width="48" height="48" alt="GraphQL"/>
-<br>GraphQL
+<img src="https://cdn.simpleicons.org/go" width="48" height="48" alt="Go"/>
+<br>Go
 </td>
 
 </tr>
@@ -145,24 +130,24 @@ My technical background combines **machine learning, backend engineering, APIs, 
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/pinecone" width="48" height="48" alt="Pinecone"/>
-<br>Pinecone
+<img src="https://cdn.simpleicons.org/supabase" width="48" height="48" alt="Supabase"/>
+<br>Supabase
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/prisma" width="48" height="48" alt="Prisma"/>
+<br>Prisma
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/sqlite" width="48" height="48" alt="SQLite"/>
+<br>SQLite
 </td>
 
 </tr>
 
 
 <tr>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker"/>
-<br>Docker
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/kubernetes" width="48" height="48" alt="Kubernetes"/>
-<br>Kubernetes
-</td>
 
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/amazonaws" width="48" height="48" alt="AWS"/>
@@ -175,6 +160,16 @@ My technical background combines **machine learning, backend engineering, APIs, 
 </td>
 
 <td align="center" width="96">
+<img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker"/>
+<br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/kubernetes" width="48" height="48" alt="Kubernetes"/>
+<br>Kubernetes
+</td>
+
+<td align="center" width="96">
 <img src="https://cdn.simpleicons.org/terraform" width="48" height="48" alt="Terraform"/>
 <br>Terraform
 </td>
@@ -182,26 +177,6 @@ My technical background combines **machine learning, backend engineering, APIs, 
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/githubactions" width="48" height="48" alt="GitHub Actions"/>
 <br>CI/CD
-</td>
-
-</tr>
-
-
-<tr>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/react" width="48" height="48" alt="React"/>
-<br>React
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="48" alt="Next.js"/>
-<br>Next.js
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/javascript" width="48" height="48" alt="JavaScript"/>
-<br>JavaScript
 </td>
 
 <td align="center" width="96">
@@ -214,15 +189,9 @@ My technical background combines **machine learning, backend engineering, APIs, 
 <br>Git
 </td>
 
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="48" height="48" alt="VS Code"/>
-<br>VS Code
-</td>
-
 </tr>
 
 </table>
-
 
 <br/>
 
