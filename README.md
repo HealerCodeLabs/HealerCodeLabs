@@ -10,8 +10,6 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 
 <br/>
 
-<div style="display: flex; align-items: flex-start; justify-content: center">
-
 <table align="center">
 
 <tr>
@@ -32,18 +30,18 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
+<img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="Hugging Face" />
+<br>Hugging Face
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br>OpenCV
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
+<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+<br>Jupyter
 </td>
 
 </tr>
@@ -52,9 +50,39 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 <tr>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="Hugging Face" />
-<br>Hugging Face
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
 </td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br>Flask
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br>Go
+</td>
+
+</tr>
+
+
+<tr>
 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
@@ -72,8 +100,48 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 </td>
 
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+<br>Elasticsearch
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br>GCP
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
 <br>Kubernetes
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br>Terraform
 </td>
 
 <td align="center" width="96">
@@ -87,21 +155,6 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 <tr>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br>Go
-</td>
-
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br>React
 </td>
@@ -112,21 +165,34 @@ I have a strong foundation in **Python, machine learning frameworks, backend sys
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+<br>CI/CD
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>DevOps
 </td>
 
 </tr>
 
 </table>
 
-</div>
-
 <br/>
 
 ### AI Expertise
 
-`Generative AI` · `LLMs` · `RAG` · `AI Agents` · `NLP` · `Semantic Search` · `Embeddings` · `Prompt Engineering` · `AI Evaluation` · `Intelligent Automation`
+`Generative AI` · `Large Language Models (LLMs)` · `RAG Systems` · `AI Agents` · `NLP` · `Semantic Search` · `Embeddings` · `Vector Databases` · `Prompt Engineering` · `LLM Evaluation` · `Model Integration` · `Machine Learning` · `Deep Learning` · `MLOps` · `AI Automation`
 
 <br/>
 
