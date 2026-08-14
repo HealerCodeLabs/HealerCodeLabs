@@ -1,104 +1,52 @@
 <div align="center">
-  <h2>🤖 AI Engineer | Machine Learning Engineer</h2>
+
+<h2>🤖 AI Engineer | Machine Learning Engineer | Full Stack Developer</h2>
+
 </div>
 
-I am an **AI Engineer and Machine Learning Engineer with 7+ years of software engineering experience**, including 5+ years focused on building **AI and ML applications**. My expertise includes **Generative AI, Large Language Models (LLMs), RAG systems, AI agents, NLP, semantic search, model integration, evaluation, and intelligent automation**.
+I am an **AI Engineer and Machine Learning Engineer** with **7+ years of software engineering experience**, specializing in **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and intelligent automation**.
 
-I build **production-ready AI systems**, including AI-powered applications, machine learning services, retrieval pipelines, backend APIs, and scalable cloud infrastructure. My focus is transforming AI capabilities into reliable products through **strong engineering practices, evaluation, optimization, and deployment workflows**.
+I design and build **production-grade AI systems** including LLM-powered applications, retrieval pipelines, semantic search platforms, AI assistants, document intelligence systems, and autonomous workflows.
 
-My technical background combines **machine learning, backend engineering, databases, cloud platforms, and MLOps**, enabling me to deliver AI solutions from experimentation to production.
+My background combines **machine learning, backend engineering, and cloud infrastructure**, allowing me to transform AI prototypes into scalable, reliable, and maintainable production solutions.
+
+I specialize in **LLM applications, embeddings, vector databases, NLP, model evaluation, AI APIs, FastAPI services, backend systems, and cloud deployment**, with a strong focus on performance, reliability, and real-world business applications.
 
 <br/>
 
-<div align="center">
 
-<table>
+<table align="center">
 
 <tr>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
 <br>Python
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="48" height="48" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/>
 <br>PyTorch
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/>
 <br>TensorFlow
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" alt="Jupyter"/>
-<br>Jupyter
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/opencv" width="48" height="48" alt="OpenCV"/>
-<br>OpenCV
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face"/>
+<img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48"/>
 <br>Hugging Face
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/>
-<br>LangChain
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/mlflow" width="48" height="48" alt="MLflow"/>
-<br>MLflow
-</td>
-
-</tr>
-
-
-<tr>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/fastapi-icon.svg" width="48" height="48" alt="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/>
 <br>FastAPI
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django"/>
-<br>Django
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" height="48" alt="Node.js"/>
-<br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="48" height="48" alt="TypeScript"/>
-<br>TypeScript
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/go-icon.svg" width="48" height="48" alt="Go"/>
-<br>Go
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="48" height="48" alt="PostgreSQL"/>
-<br>PostgreSQL
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="48" height="48" alt="MongoDB"/>
-<br>MongoDB
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/redis-icon.svg" width="48" height="48" alt="Redis"/>
-<br>Redis
+<img src="https://skillicons.dev/icons?i=langchain" width="48" height="48"/>
+<br>LangChain
 </td>
 
 </tr>
@@ -107,60 +55,194 @@ My technical background combines **machine learning, backend engineering, databa
 <tr>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS"/>
-<br>AWS
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
+<br>PostgreSQL
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/googlecloud-icon.svg" width="48" height="48" alt="Google Cloud"/>
-<br>GCP
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+<br>MongoDB
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
 <br>Docker
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes"/>
-<br>Kubernetes
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
+<br>AWS
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="48" height="48" alt="Terraform"/>
-<br>Terraform
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
+<br>React
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub"/>
-<br>GitHub Actions
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48"/>
+<br>TypeScript
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+<br>Node.js
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/linux-icon.svg" width="48" height="48" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48"/>
+<br>CI/CD
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
 <br>Linux
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/git-icon.svg" width="48" height="48" alt="Git"/>
-<br>Git
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/>
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
+<br>Next.js
 </td>
 
 </tr>
 
 </table>
 
-</div>
-
 
 <br/>
 
-### AI Expertise
 
-`Generative AI` · `LLMs` · `RAG Systems` · `AI Agents` · `NLP` · `Semantic Search` · `Embeddings` · `Vector Databases` · `Prompt Engineering` · `Model Evaluation` · `AI Automation` · `MLOps`
+## 🧠 Artificial Intelligence
+
+- Large Language Models (LLMs)
+- Generative AI Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- Embeddings
+- Semantic Search
+- Vector Databases
+- NLP
+- Model Evaluation
+- Machine Learning Pipelines
+- Recommendation Systems
+- Intelligent Automation
+
+
+## ⚙️ AI Engineering
+
+- OpenAI API Integration
+- LangChain
+- FastAPI AI Services
+- Document Intelligence
+- Knowledge Retrieval Systems
+- AI Workflow Automation
+- AI Application Architecture
+- Retrieval Optimization
+- Context Management
+
+
+## 💻 Backend Development
+
+- Python Backend Development
+- FastAPI
+- REST APIs
+- Node.js
+- Database Design
+- PostgreSQL
+- MongoDB
+- API Integration
+- Backend Services
+
+
+## ☁️ Cloud & DevOps
+
+- AWS
+- Docker
+- CI/CD Pipelines
+- Production Deployment
+- Cloud-Native Architecture
+- System Optimization
+
+
+## 🚀 Featured AI Projects
+
+
+### Enterprise RAG Knowledge Assistant
+
+Designed an enterprise AI knowledge assistant using:
+
+- Document ingestion
+- Chunking pipelines
+- Embeddings
+- Vector search
+- RAG architecture
+- Grounded LLM responses
+
+**Technologies:**
+Python · FastAPI · LangChain · OpenAI API · PostgreSQL · Docker
+
+
+### AI Agent Platform
+
+Developed AI agents capable of:
+
+- Multi-step task execution
+- External API integration
+- Workflow orchestration
+- Context management
+- Backend tool interaction
+
+**Technologies:**
+Python · LangChain · OpenAI API · FastAPI · REST APIs · PostgreSQL
+
+
+### Intelligent Document Processing System
+
+Built AI pipelines for:
+
+- Document extraction
+- Classification
+- Validation
+- Structured information processing
+- Business workflow automation
+
+**Technologies:**
+Python · NLP · Machine Learning · FastAPI · REST APIs
+
+
+### Semantic Search Platform
+
+Implemented semantic retrieval systems using:
+
+- Embeddings
+- Vector search
+- Similarity ranking
+- Knowledge discovery workflows
+
+**Technologies:**
+Python · Embeddings · Vector Databases · NLP · FastAPI
+
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ec4899,100:f59e0b&section=footer" width="100%" />
+
+### Let's build intelligent systems 🚀
+
 </div>
