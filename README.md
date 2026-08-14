@@ -4,10 +4,9 @@
 
 </div>
 
-
 I am an **AI Engineer and Machine Learning Engineer** with **7+ years of software engineering experience**, specializing in **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and applied machine learning**.
 
-I build production-ready AI systems by combining **machine learning, backend engineering, and cloud infrastructure**. My focus is developing scalable AI applications, intelligent automation workflows, retrieval systems, semantic search solutions, and reliable AI-powered services.
+I build production-ready AI systems by combining **machine learning, backend engineering, and cloud infrastructure**. My work focuses on developing scalable AI applications, intelligent retrieval systems, semantic search solutions, and reliable AI-powered services.
 
 With a strong software engineering foundation, I transform AI models and prototypes into practical production systems with emphasis on **performance, reliability, and maintainability**.
 
@@ -155,3 +154,11 @@ With a strong software engineering foundation, I transform AI models and prototy
 </table>
 
 </div>
+
+
+<br/>
+
+
+## 🧠 AI Expertise
+
+LLMs • Generative AI • RAG • AI Agents • Semantic Search • Vector Databases
